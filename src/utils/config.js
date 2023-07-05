@@ -5,6 +5,6 @@ export const YOUTUBE_VIDEOS_API =
   GOOGLE_API_KEY;
 export const GET_VIDEO_CATEGORIES_LIST = "https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&regionCode=IN&key=" + GOOGLE_API_KEY;
 
-export const YOUTUBE_SEARCH_API_URL = "http://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q="
+export const YOUTUBE_SEARCH_API_URL = "https://suggestqueries.google.com/complete/search?client=firefox&ds=yt&q="
 
 //export const YOUTUBE_SEARCH_VIDEO_URL = ""
